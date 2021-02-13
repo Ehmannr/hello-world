@@ -1,11 +1,10 @@
 public class hello{
     /**
-     *
+     this is a com.
      */
-    private static final String HELLO_TEST = "hello test";
 
     public static void main(String[] args) {
-    System.out.println(HELLO_TEST);
+    System.out.println("Hello world");
     }      
     
 }
